@@ -1,9 +1,9 @@
     function preloader() {
         const imagesList = [
-            "./img/img-1.jpg",
-            "./img/img-2.jpg",
-            "./img/img-3.jpg",
-            "./img/img-4.jpg"
+            "../img/img-1.jpg",
+            "../img/img-2.jpg",
+            "../img/img-3.jpg",
+            "../img/img-4.jpg"
         ];
         const images = [];
         for (let i = 0; i < imagesList.length; i++) {
